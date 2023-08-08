@@ -10,6 +10,8 @@ public class DemoTestApplication {
         System.out.println("2222");
         // 测试 codereview
         System.out.println("1111");
+          System.out.println("33");
+          System.out.println("333");
         SpringApplication.run(DemoTestApplication.class, args);
     }
 
