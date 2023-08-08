@@ -12,6 +12,8 @@ public class DemoTestApplication {
         System.out.println("1111");
           System.out.println("33");
           System.out.println("333");
+              System.out.println("44");
+          System.out.println("555");
         SpringApplication.run(DemoTestApplication.class, args);
     }
 
